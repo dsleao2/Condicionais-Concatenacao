@@ -1,4 +1,4 @@
-# Condicionais-Concatenacao
+# Condicionais e Concatenação 
 
 Primeiro desafio sobre condicionais e concatenação da aula 2 sobre Lógica de Programação. 
 Neste desafio eu precisava questionar ao usuario sobre qual era o dia da semana.
